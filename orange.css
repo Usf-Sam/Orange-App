@@ -9,6 +9,7 @@
   --text-color: #000000;
   --main-color: Color/Orange/Light /#F16E00;
 }
+/*Splash Screen*/
 .splash {
   width: 375px;
   height: 812px;
@@ -27,7 +28,7 @@
   left: -3972px;
   padding: 0px 122px 0px 121px;
 }
-/*onboarding*/
+/*onboarding1 Screen*/
 .onboarding1 {
   width: 375px;
   height: 812px;
@@ -144,7 +145,7 @@
   flex-shrink: 0;
   margin: 51px 0 0 0;
 }
-/*onboarding2*/
+/*onboarding2 Screen*/
 .onboarding2 {
   width: 375px;
   height: 812px;
@@ -280,7 +281,7 @@
   flex-shrink: 0;
   margin: 25px 0 0 0;
 }
-/*onboarding3*/
+/*onboarding3 Screen*/
 .onboarding3 {
   width: 375px;
   height: 812px;
@@ -417,7 +418,7 @@
   flex-shrink: 0;
   margin: 25px 0 0 0;
 }
-/*onboarding4*/
+/*onboarding4 Screen*/
 .onboarding4 {
   width: 375px;
   height: 812px;
@@ -554,7 +555,7 @@
   flex-shrink: 0;
   margin: 25px 0 0 0;
 }
-/*GetStarted*/
+/*GetStarted Screen*/
 .GetStarted {
   width: 375px;
   height: 812px;
@@ -687,7 +688,7 @@
   flex-shrink: 0;
   margin: 25px 0 0 0;
 }
-/*Signin*/
+/*Signin Screen*/
 .Signin {
   width: 375px;
   height: 812px;
@@ -720,8 +721,8 @@ border-radius: 4.169px;
 border: 0.417px solid #F4762D;
 }
 #text{
-  color: black;
-  width: Fixed (157px)px;
+color: black;
+ width: Fixed (157px)px;
 height: Fixed (39px)px;
 margin: 0 108px 0 110px;
 font-size: 24px;
@@ -734,17 +735,14 @@ text-align: center;
   height: Hug (75px)px;
   gap: 4px;
   margin:24px 16px 0px 16px ;
-
 }
 .inputlabel{
-  width: Hug (86px)px;
+width: Hug (86px)px;
 height: 23px;
 font-size: 14px;
 font-weight: 400;
 text-align: left;
 margin-bottom: 4px;
-
-
 }
 input{
   display: flex;
@@ -765,12 +763,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 22.4px;
 padding-left:36px ;
-
-
 }
-
-
-
 .CTA {
   color: white;
   display: flex;
