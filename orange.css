@@ -1,3 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+/* color for all text in html */
+:root {
+  --text-color: #000000;
+  --main-color: Color/Orange/Light /#F16E00;
+}
 .splash {
   width: 375px;
   height: 812px;
